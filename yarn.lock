@@ -6641,7 +6641,7 @@ react-redux@^6.0.0:
 
 react-scripts-ts@^3.1.0:
   version "3.1.0"
-  resolved "http://registry.npm.taobao.org/react-scripts-ts/download/react-scripts-ts-3.1.0.tgz#3f285c54b242ff6ecbfb91785060db10660ee7b0"
+  resolved "http://r.cnpmjs.org/react-scripts-ts/download/react-scripts-ts-3.1.0.tgz#3f285c54b242ff6ecbfb91785060db10660ee7b0"
   integrity sha1-PyhcVLJC/27L+5F4UGDbEGYO57A=
   dependencies:
     autoprefixer "7.1.6"
